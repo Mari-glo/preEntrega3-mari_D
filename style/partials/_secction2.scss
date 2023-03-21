@@ -52,6 +52,15 @@
         &.tarjeta--medios{
             background-image: url(../img/medios_1.jpg);
         }
+        &.tarjeta--restauracion{
+            background-image: url(../img/diagnostico_1.jpg);
+        }
+        &.tarjeta--diagnostico{
+            background-image: url(../img/restauracion_1.jpg);
+        }
+        &.tarjeta--supervision{
+            background-image: url(../img/supervision_1.jpg);
+        }
 
         h4 {
             background-color: #FFE8D6;

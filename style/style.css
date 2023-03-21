@@ -103,6 +103,15 @@
 .tarjetas .tarjeta.tarjeta--medios {
   background-image: url(../img/medios_1.jpg);
 }
+.tarjetas .tarjeta.tarjeta--restauracion {
+  background-image: url(../img/diagnostico_1.jpg);
+}
+.tarjetas .tarjeta.tarjeta--diagnostico {
+  background-image: url(../img/restauracion_1.jpg);
+}
+.tarjetas .tarjeta.tarjeta--supervision {
+  background-image: url(../img/supervision_1.jpg);
+}
 .tarjetas .tarjeta h4 {
   background-color: #FFE8D6;
   text-decoration: none;
