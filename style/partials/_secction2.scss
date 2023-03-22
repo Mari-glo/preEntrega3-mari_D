@@ -43,22 +43,28 @@
         &.tarjeta--ideas {
             background-image: url(../img/in_4.jpg);
         }
-        &.tarjeta--premios{
+
+        &.tarjeta--premios {
             background-image: url(../img/premios_1.jpg);
         }
-        &.tarjeta--revistas{
+
+        &.tarjeta--revistas {
             background-image: url(../img/revista_1.jpg);
         }
-        &.tarjeta--medios{
+
+        &.tarjeta--medios {
             background-image: url(../img/medios_1.jpg);
         }
-        &.tarjeta--restauracion{
+
+        &.tarjeta--restauracion {
             background-image: url(../img/diagnostico_1.jpg);
         }
-        &.tarjeta--diagnostico{
+
+        &.tarjeta--diagnostico {
             background-image: url(../img/restauracion_1.jpg);
         }
-        &.tarjeta--supervision{
+
+        &.tarjeta--supervision {
             background-image: url(../img/supervision_1.jpg);
         }
 
@@ -68,7 +74,7 @@
             color: #6B705C;
             padding: 10px 20px;
             border-radius: 5px;
-            
+
             &:hover {
                 color: #CB997E;
 
@@ -79,4 +85,3 @@
 
 
 }
-
